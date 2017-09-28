@@ -1,0 +1,186 @@
+{
+	"order": {
+		"section_ier3pa15i": {
+			"columns": {
+				"column_1364jk5y3": ["content_szgxzf0xd"]
+			},
+			"row_id": "row_8exbsojh5"
+		},
+		"section_5z4vjx7cv": {
+			"columns": {
+				"column_k6oos3zp8": ["content_4k45jt4qb"]
+			},
+			"row_id": "row_ws07r2zu8"
+		}
+	},
+	"content_szgxzf0xd": {
+		"content": {
+			"xl": "<p style=\"font-size: 4.388888888888889rem; text-align: center;\" data-mce-style=\"font-size: 4.388888888888889rem; text-align: center;\">Motion: <br>Background color change&nbsp;on scroll&nbsp;<br></p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"padding-top": "0rem",
+				"padding-bottom": "0rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {
+				"translateX": "0rem",
+				"translateY": "0rem"
+			},
+			"end": {
+				"translateX": 0,
+				"translateY": 0,
+				"background-color": "transparent"
+			},
+			"event": "on_load",
+			"motion_move": "off",
+			"trigger_hook": "onLeave",
+			"motion_background_color": "off"
+		}
+	},
+	"section_ier3pa15i": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"background-color": "#ffd300",
+				"padding-top": "11.11111111111111rem",
+				"padding-bottom": "11.11111111111111rem"
+			}
+		},
+		"motions": {
+			"active": ["background-color"],
+			"start": {},
+			"end": {
+				"background-color": "#000000"
+			},
+			"motion_background_color": "on",
+			"event": "on_scroll",
+			"trigger_hook": "onLeave",
+			"onscroll_duration": "50"
+		}
+	},
+	"column_1364jk5y3": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_nitybw8ki": {
+		"content": {
+			"xl": ""
+		},
+		"module": "image",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_4k45jt4qb": {
+		"content": {
+			"xl": "<p style=\"font-size: 4.388888888888889rem; text-align: center;\" data-mce-style=\"font-size: 4.388888888888889rem; text-align: center;\">Try scroll this page&nbsp;in preview mode to see the effect :)<br></p><p style=\"text-align: center; font-size: 1.8333333333333333rem; line-height: 2.888888888888889rem;\" data-mce-style=\"text-align: center; font-size: 1.8333333333333333rem; line-height: 2.888888888888889rem;\">Note: Motion blocks only work when motion is enabled. &nbsp;<br>To enble it, go to:<br> Customize - Advanced -&nbsp;Unlock Editor Motion Options</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"padding-top": "10rem",
+				"padding-bottom": "11.11111111111111rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {
+				"translateX": "0rem",
+				"translateY": "0rem"
+			},
+			"end": {
+				"translateX": 0,
+				"translateY": 0
+			},
+			"event": "on_scroll",
+			"motion_move": "off",
+			"trigger_hook": "onLeave"
+		}
+	},
+	"content_6cafgtrie": {
+		"content": {
+			"xl": "<p>Hey there, this is the default text for a new paragraph. Feel free to edit this paragraph by clicking on the yellow edit icon. After you are done just click on the yellow checkmark button on the top right. Have Fun!</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_5z4vjx7cv": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": ["background-color"],
+			"start": {},
+			"end": {
+				"background-color": "#ffd300"
+			},
+			"motion_background_color": "on",
+			"event": "on_scroll"
+		}
+	},
+	"column_k6oos3zp8": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

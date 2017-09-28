@@ -1,0 +1,92 @@
+{
+	"order": {
+		"section_w9c1y03ux": {
+			"columns": {
+				"column_31x8m1vy9": ["content_vrntd36kc"],
+				"column_wwj3xe7or": ["content_9iv8y6fbp"]
+			},
+			"row_id": "row_b4ltey6kp"
+		}
+	},
+	"content_vrntd36kc": {
+		"content": {
+			"xl": "semplice_image_5.jpg"
+		},
+		"module": "image",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_w9c1y03ux": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-valign": "bottom"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_31x8m1vy9": {
+		"width": {
+			"xl": "6"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_9iv8y6fbp": {
+		"content": {
+			"xl": "<p>Image with caption. You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are.</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_wwj3xe7or": {
+		"width": {
+			"xl": "3"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"order": {
+		"section_v8hnwipyn": {
+			"columns": {
+				"column_lutcpni44": ["content_zjtwxxq7r", "content_808v9845h"]
+			},
+			"row_id": "row_gdpnr9cji"
+		}
+	},
+	"branding": {
+		"background-color": "#f4f4f4"
+	},
+	"content_zjtwxxq7r": {
+		"content": {
+			"xl": "semplice_image_6.jpg"
+		},
+		"module": "image",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_v8hnwipyn": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"padding-bottom": "5.555555555555555rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_lutcpni44": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {
+				"background-color": "transparent"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_808v9845h": {
+		"content": {
+			"xl": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Image with caption.&nbsp;</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"padding-left": "0rem",
+				"background-color": "#ffffff",
+				"padding-top": "1.6666666666666667rem",
+				"padding-bottom": "1.6666666666666667rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

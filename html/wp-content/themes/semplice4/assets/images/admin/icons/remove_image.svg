@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .remove-image-x {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="Form_1" data-name="Form 1" cx="10" cy="10" r="10"/>
+  <path id="Form_2" data-name="Form 2" class="remove-image-x" d="M14,13.42l-0.53.527-3.444-3.42L6.529,14,6,13.473,9.5,10,6,6.527,6.529,6l3.5,3.473,3.444-3.42L14,6.58,10.556,10Z"/>
+</svg>

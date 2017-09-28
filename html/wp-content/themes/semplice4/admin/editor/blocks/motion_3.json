@@ -1,0 +1,269 @@
+{
+	"order": {
+		"section_v76b8lskz": {
+			"columns": {
+				"column_h12at7eb1": ["content_3f20va7a7"]
+			},
+			"row_id": "row_zy3u5h3lb"
+		},
+		"section_8o40ybtpz": {
+			"columns": {
+				"column_o0g2ql5yx": ["content_kxza6fxab"]
+			},
+			"row_id": "row_knyhrfyur"
+		},
+		"section_qs4c1rm9x": {
+			"columns": {
+				"column_66sg0p5le": ["content_v8y0zffxp"]
+			},
+			"row_id": "row_mrin23qy3"
+		}
+	},
+	"content_nitybw8ki": {
+		"content": {
+			"xl": ""
+		},
+		"module": "image",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_6cafgtrie": {
+		"content": {
+			"xl": "<p>Hey there, this is the default text for a new paragraph. Feel free to edit this paragraph by clicking on the yellow edit icon. After you are done just click on the yellow checkmark button on the top right. Have Fun!</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_x20np0343": {
+		"content": {
+			"xl": ""
+		},
+		"module": "spacer-column",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_kxza6fxab": {
+		"content": {
+			"xl": "<p>Section A</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_8o40ybtpz": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-height": "fullscreen",
+			"data-valign": "center"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"background-image": "semplice_motion_3_1.png",
+				"background-position": "50% 50%",
+				"background-size": "cover"
+			}
+		},
+		"motions": {
+			"active": ["opacity"],
+			"start": {
+				"opacity": 1
+			},
+			"end": {
+				"opacity": 1
+			},
+			"event": "on_scroll",
+			"trigger_hook_custom": "50",
+			"onscroll_movement": "sticky",
+			"onscroll_duration": "100",
+			"motion_opacity": "on",
+			"trigger_hook": "onLeave"
+		}
+	},
+	"column_o0g2ql5yx": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": ["move"],
+			"start": {
+				"translateX": "1.1111111111111112rem",
+				"translateY": "1.1111111111111112rem"
+			},
+			"end": {
+				"translateX": 0,
+				"translateY": 0
+			},
+			"event": "on_scroll",
+			"motion_move": "on",
+			"trigger_hook": "onLeave"
+		}
+	},
+	"section_qs4c1rm9x": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-height": "fullscreen",
+			"data-valign": "center"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"background-image": "semplice_motion_3_2.png",
+				"background-size": "cover"
+			}
+		},
+		"motions": {
+			"active": ["opacity"],
+			"start": {
+				"opacity": 1
+			},
+			"end": {
+				"opacity": 1
+			},
+			"event": "on_scroll",
+			"trigger_hook_custom": "50",
+			"onscroll_movement": "sticky",
+			"onscroll_duration": "100",
+			"motion_opacity": "on",
+			"trigger_hook": "onLeave"
+		}
+	},
+	"column_66sg0p5le": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": ["move"],
+			"start": {
+				"translateX": "1.1111111111111112rem",
+				"translateY": "1.1111111111111112rem"
+			},
+			"end": {
+				"translateX": 0,
+				"translateY": 0
+			},
+			"event": "on_scroll",
+			"motion_move": "on",
+			"trigger_hook": "onLeave"
+		}
+	},
+	"content_v8y0zffxp": {
+		"content": {
+			"xl": "<p><span style=\"color: rgb(214, 214, 214);\" data-mce-style=\"color: #d6d6d6;\"><span id=\"_mce_caret\" data-mce-bogus=\"1\"><span style=\"color: rgb(255, 255, 255);\" data-mce-style=\"color: #ffffff;\" data-mce-bogus=\"1\">﻿</span></span>Section B</span></p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_3f20va7a7": {
+		"content": {
+			"xl": "<p style=\"font-size: 4.388888888888889rem; text-align: center;\" data-mce-style=\"font-size: 4.388888888888889rem; text-align: center;\">Motion:&nbsp;Overlapping sections</p><p style=\"font-size: 4.388888888888889rem; text-align: center;\" data-mce-style=\"font-size: 4.388888888888889rem; text-align: center;\">Try scroll this page&nbsp;in preview mode to see the effect :)</p><p style=\"text-align: center; font-size: 1.8333333333333333rem; line-height: 2.888888888888889rem;\" data-mce-style=\"text-align: center; font-size: 1.8333333333333333rem; line-height: 2.888888888888889rem;\">Note: Motion blocks only work when motion is enabled. &nbsp;<br>To enble it, go to:<br> Customize - Advanced -&nbsp;Unlock Editor Motion Options</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"padding-top": "10rem",
+				"padding-bottom": "4.444444444444445rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_v76b8lskz": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_h12at7eb1": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

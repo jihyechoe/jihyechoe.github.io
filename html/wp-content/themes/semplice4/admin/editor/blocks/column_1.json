@@ -1,0 +1,79 @@
+{
+	"order": {
+		"section_lhz74t5tb": {
+			"columns": {
+				"column_0lrf8fusw": ["content_86j17pqn6", "content_ktwzsa2ou"]
+			},
+			"row_id": "row_8pr1qgmcn"
+		}
+	},
+	"content_86j17pqn6": {
+		"content": {
+			"xl": "semplice_col_1.png"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_lhz74t5tb": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_0lrf8fusw": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_ktwzsa2ou": {
+		"content": {
+			"xl": "<p style=\"text-align: center; font-size: 2.55556rem; line-height: 3.72222rem;\" data-mce-style=\"text-align: center; font-size: 2.55556rem; line-height: 3.72222rem;\">We are what we repeatedly do. <br>Excellence, then, is not an act, but a habit.</p><p style=\"text-align: center; font-size: 1.55556rem; line-height: 3.72222rem;\" data-mce-style=\"text-align: center; font-size: 1.55556rem; line-height: 3.72222rem;\">- A quote</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"padding-top": "1.6666666666666667rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

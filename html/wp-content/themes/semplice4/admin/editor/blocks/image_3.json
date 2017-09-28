@@ -1,0 +1,96 @@
+{
+	"order": {
+		"section_ohttxqxyb": {
+			"columns": {
+				"column_piydjyo9n": ["content_l2yj9x0wx"],
+				"column_ivmqatsbw": ["content_hcjf4t1sx"]
+			},
+			"row_id": "row_57ytd8peu"
+		}
+	},
+	"content_hcjf4t1sx": {
+		"content": {
+			"xl": "semplice_image_3.jpg"
+		},
+		"module": "image",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_ohttxqxyb": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-valign": "center"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_ivmqatsbw": {
+		"width": {
+			"xl": "5"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_l2yj9x0wx": {
+		"content": {
+			"xl": "<p style=\"font-size: 3.61111rem; line-height: 4.55556rem;\" data-mce-style=\"font-size: 3.61111rem; line-height: 4.55556rem;\"><span class=\"font_u96dif6g6\">A nice image with overlapping text</span></p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {
+				"margin-right": "0rem",
+				"margin-left": "11.666666666666666rem",
+				"z-index": "2"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_piydjyo9n": {
+		"width": {
+			"xl": "5"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

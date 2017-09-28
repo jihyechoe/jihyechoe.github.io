@@ -1,0 +1,23 @@
+<?php
+
+// -----------------------------------------
+// semplice
+// admin/atts/modules/paragraph.php
+// -----------------------------------------
+
+$paragraph = array(
+	'options' => array(
+		'title'  	 => 'Options',
+		'hide-title' => true,
+		'break'		 => '4',
+		'edit_paragraph' => array(
+			'data-input-type' 	=> 'button',
+			'title'		 		=> 'Edit',
+			'button-title'		=> 'Edit Paragraph',
+			'size'		 		=> 'span4',
+			'class'				=> 'semplice-button init-wysiwyg-ep',
+		),
+	),
+);
+
+?>

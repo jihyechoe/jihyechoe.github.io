@@ -1,0 +1,289 @@
+{
+	"order": {
+		"section_i81zhr1if": {
+			"columns": {
+				"column_i57ajt1ji": ["content_d394gqw84"]
+			},
+			"row_id": "row_8cu8yq0qw"
+		},
+		"section_z8giq0o5s": {
+			"columns": {
+				"column_rhq037ae7": ["content_ykilcaysz"],
+				"column_2lave6dks": ["content_fgytjb7x0"],
+				"column_gb7dr51kn": ["content_h81d0cy7j"],
+				"column_7u2azz1id": ["content_21en0a2gi"],
+				"column_fgx781c32": ["content_7k1b03kl8"],
+				"column_ltmoph5rx": ["content_u10dcm5tl"]
+			},
+			"row_id": "row_shauabnar"
+		}
+	},
+	"content_d394gqw84": {
+		"content": {
+			"xl": "<p style=\"text-align: center; font-size: 2.55556rem;\" data-mce-style=\"text-align: center; font-size: 2.55556rem;\">A set of social network icons</p>"
+		},
+		"module": "paragraph",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_i81zhr1if": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_i57ajt1ji": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_ykilcaysz": {
+		"content": {
+			"xl": "semplice_icon_2_1.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_z8giq0o5s": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-justify": "center",
+			"data-gutter": "yes"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"padding-top": "2.2222222222222223rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_rhq037ae7": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_7k1b03kl8": {
+		"content": {
+			"xl": "semplice_icon_2_2.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_fgx781c32": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_21en0a2gi": {
+		"content": {
+			"xl": "semplice_icon_2_3.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_7u2azz1id": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_h81d0cy7j": {
+		"content": {
+			"xl": "semplice_icon_2_4.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_gb7dr51kn": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_fgytjb7x0": {
+		"content": {
+			"xl": "semplice_icon_2_5.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_2lave6dks": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"content_u10dcm5tl": {
+		"content": {
+			"xl": "semplice_icon_2_6.svg"
+		},
+		"module": "image",
+		"options": {
+			"align": "center"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_ltmoph5rx": {
+		"width": {
+			"xl": "1"
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {
+				"padding-top": "0rem"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}

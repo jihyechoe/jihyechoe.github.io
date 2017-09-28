@@ -1,0 +1,65 @@
+{
+	"order": {
+		"section_tr1lb581z": {
+			"columns": {
+				"column_4r8jgglcr": []
+			},
+			"row_id": "row_qqj25sv7z"
+		}
+	},
+	"content_a3j23wwpe": {
+		"content": {
+			"xl": ""
+		},
+		"module": "spacer-column",
+		"options": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_tr1lb581z": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single",
+			"data-height": "fullscreen"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {
+				"background-image": "semplice_image_1.jpg",
+				"background-size": "cover"
+			}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_4r8jgglcr": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		},
+		"type": "spacer"
+	}
+}

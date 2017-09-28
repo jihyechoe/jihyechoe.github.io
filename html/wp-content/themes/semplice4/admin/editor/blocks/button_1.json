@@ -1,0 +1,74 @@
+{
+	"order": {
+		"section_c90xnmxdz": {
+			"columns": {
+				"column_pe6h3594r": ["content_57yox44tg"]
+			},
+			"row_id": "row_d5pqidkuv"
+		}
+	},
+	"content_57yox44tg": {
+		"content": {
+			"xl": ""
+		},
+		"module": "button",
+		"options": {
+			"background-color": "#020202",
+			"color": "#ffffff",
+			"padding-right": "1.6666666666666667rem",
+			"padding-left": "1.6666666666666667rem",
+			"padding-top": "0.7222222222222222rem",
+			"padding-bottom": "0.7222222222222222rem",
+			"label": "Rounded Corner Button",
+			"border-radius": "2.2222222222222223rem",
+			"hover-color": "#000000",
+			"hover-border-color": "#000000",
+			"border-width": "0.1111111111111111rem",
+			"border-color": "#000000",
+			"hover-background-color": "#ffffff"
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"section_c90xnmxdz": {
+		"options": {},
+		"layout": {
+			"data-column-mode-sm": "single",
+			"data-column-mode-xs": "single"
+		},
+		"customHeight": {
+			"xl": {
+				"height": "15rem"
+			}
+		},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	},
+	"column_pe6h3594r": {
+		"width": {
+			"xl": 12
+		},
+		"options": {},
+		"layout": {},
+		"styles": {
+			"xl": {}
+		},
+		"motions": {
+			"active": [],
+			"start": {},
+			"end": {}
+		}
+	}
+}
