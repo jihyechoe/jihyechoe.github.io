@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+    color: red;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 120px;
+    color: black;
+}
+
+.desc {
+    background-color: yellow;
+    border: 20px solid red;
+    padding: 30px;
+    width: 80%;
+}
