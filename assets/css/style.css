@@ -1,17 +1,29 @@
 body {
-    background-color: blue;
-    color: red;
-    margin: 20px;
+    margin: 10%;
+    background-color: white;
+    color: #3A3A48;
 }
 
 h1 {
+    margin-top: 250px;
     font-size: 120px;
     color: black;
 }
 
+.project {
+    width: 50%;
+}
+
 .desc {
-    background-color: yellow;
-    border: 20px solid red;
-    padding: 30px;
-    width: 80%;
+    padding-left: 500px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+
+.spacer {
+    height: 250px;
+}
+
+.thumb {
+    width: 600px;
 }
