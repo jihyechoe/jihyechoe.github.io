@@ -1,5 +1,10 @@
-
+/*@font-face {
+    font-family: georgia;
+    src: url(/georgia.ttf);
+}
+*/
 body {
+    font-family: Helvetica !important;
     max-width: 1170px;
     margin: 100px auto !important;
     background-color: white;
@@ -7,14 +12,16 @@ body {
 }
 
 /* cover */
-h1 {
-    margin-top: 250px;
-    font-size: 120px;
+.name {
+    margin-top: 200px;
+    font-size: 100px;
+    font-weight: 800;
 }
 
 .desc {
     padding: 80px 0 0 400px;
-    font-size: 30px;
+    font-size: 25px;
+    font-weight: 100;
 }
 
 
@@ -23,12 +30,17 @@ h1 {
     margin-top: 200px;
 }
 
+.project-role {
+    font-size: 20px;
+}
+
 .project-title {
     font-size: 60px;
 }
 
 .project-desc {
     font-size: 25px;
+    font-weight: 200;
 }
 
 .thumb {
