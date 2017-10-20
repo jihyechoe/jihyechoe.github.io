@@ -130,8 +130,28 @@ a.underline_link  {
 .work-project-title {
     padding: 20px 0 0 0;
     font-size: 40px;
+    font-weight: 800;
 }
 
 .work-project-role {
      padding: 0 0 50px 0;
+}
+
+/* content */
+.full-image {
+    margin: 100px 0;
+}
+
+span.diffmod1 {
+    background-color: #FCEE14;
+    text-decoration: underline;
+}
+
+del.diffmod {
+    color: rgba(194,15,44,.5);
+    text-decoration: line-through;
+}
+
+span.diffmod {
+    background-color: rgba(92,200,203,.5);
 }
