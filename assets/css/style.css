@@ -25,14 +25,6 @@ a.menu, a.menu:visited, a.menu:hover {
 }
 
 /* cover */
-.cover .name {
-    margin: 150px 0 80px 0
-    font-size: 120px;
-    line-height: 140px;
-    font-weight: 800;
-}
-
-
 .name {
     margin-top: 180px;
     font-size: 120px;
@@ -160,6 +152,10 @@ a.footer-link:hover {
 
 
 /* about */
+#about-name {
+    margin: 150px 0 30px 0;
+}
+
 .about-sub-title {
     font-size: 30px; 
     margin-bottom: 20px;
@@ -199,13 +195,51 @@ a.footer-link:hover {
     font-weight: 800;
     padding-top: 40px;
     text-transform: uppercase;
-
-     padding: 0 0 50px 0;
+    padding: 0 0 50px 0;
 }
 
 /* content */
+#project-name {
+    margin: 150px 0 70px 0;
+}
+
+.top-content {
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+.content {
+    font-size: 22px;
+    margin-top: 100px;
+}
+
+.subtitle {
+    font-size: 40px; 
+    margin: 200px 0 50px 0;
+}
+
 .full-image {
     margin: 100px 0;
+}
+
+.ite1 {
+    padding: 20px; 
+    margin-top: 50px; 
+    background-color: #f9f9f9; 
+    font-size: 22px; 
+    font-weight: 200; 
+    font-family: Helvetica; 
+    color: #6e6d6d;
+}
+
+.ite2 {
+    padding: 20px; 
+    margin-top: 50px; 
+    background-color: #f9f9f9; 
+    font-weight: 200; 
+    font-family: Times; 
+    font-size: 24px;
+    color: #6e6d6d;
 }
 
 span.diffmod1 {
@@ -220,4 +254,10 @@ del.diffmod {
 
 span.diffmod {
     background-color: rgba(92,200,203,.5);
+}
+
+.see-all-box {
+    margin: 150px 0 20px 0; 
+    font-size: 23px; 
+    text-align: right;
 }
