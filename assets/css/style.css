@@ -32,21 +32,28 @@ a.menu, a.menu:visited, a.menu:hover {
 }
 
 /* cover */
+.cover {
+    background-color: #fafafa;
+}
+
 .name {
-    margin-top: 180px;
     font-size: 120px;
     line-height: 140px;
     font-weight: 800;
 }
 
+#cover-name {
+    padding-top: 160px;
+}
+
 .desc {
-    padding: 100px 10px 0 450px;
+    padding: 120px 10px 0 450px;
     font-size: 22px;
     font-weight: 200;
 }
 
 .cover-link {
-    padding: 5px 0 0 450px;
+    padding: 5px 0 100px 450px;
     font-weight: 800;
     color: #37b38b; 
     font-size: 16px;
