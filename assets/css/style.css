@@ -1,15 +1,22 @@
 body {
     font-family: 'Open Sans', sans-serif !important;;
     font-family: 'Muli', sans-serif !important;
-    max-width: 1170px;
-    margin: 20px auto !important;
     color: #3A3A48;
+}
+
+main {
+    max-width: 1170px;
+    margin: 0 auto !important;
 }
 
 a.menu, a.menu:visited, a.menu:hover {
     font-size: 22px;
     color: #3A3A48;
     text-decoration: none;
+}
+
+.navigation {
+    margin: 20px 0;
 }
 
 #menus {
@@ -120,30 +127,38 @@ a.underline_link  {
 }
 
 /* footer */
-.footer-title {
+.navyback {
+    background-color: #3A3A48;
+}
+
+.footer-subtitle {
     font-size: 15px;
     font-weight: 800;
     padding-top: 40px;
     text-transform: uppercase; 
+    color: #ffffff;
 }
 
 #footer {
-    margin: 250px 0 100px 0
+    padding: 150px 0 150px 0;
+    margin: 200px 0 0 0;
 }
 
 a.footer-link,
 a.footer-link:visited,
 a.footer-link:hover {
-    color: #3A3A48;
+    color: #ffffff;
     font-size: 22px;
     text-decoration: none;
 }
 
 #resume {
+    color: #ffffff;
     margin-top: 10px;
 }
 
 #footer-title {
+    color: #75757e;
     font-size: 80px; 
     line-height: 90px;
     font-weight: 800;
@@ -152,8 +167,19 @@ a.footer-link:hover {
 
 
 /* about */
+.about-footer {
+    margin-top: -100px;
+}
+
 #about-name {
     margin: 150px 0 30px 0;
+}
+
+.about-footer-subtitle {
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase; 
+    color: #ffffff;
 }
 
 .about-sub-title {
@@ -169,10 +195,12 @@ a.footer-link:hover {
 
 .normal-text {
     font-size:22px;
+    color: #ffffff;
 }
 
 .experience-year {
     padding-top: 20px;
+    color: #ffffff;
 }
 
 /* work */
